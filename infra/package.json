@@ -1,0 +1,12 @@
+{
+    "name": "pul-test",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^16"
+    },
+    "dependencies": {
+        "@pulumi/pulumi": "^3.86.0",
+        "@pulumi/mongodbatlas": "3.10.1",
+        "@pulumi/random": "^4.14.0"
+    }
+}
